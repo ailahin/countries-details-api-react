@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(16, 2, 48);
+    color:whitesmoke;
+    height: 80px;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 0px 250px;
+
+
+
+
+}
